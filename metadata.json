@@ -8,6 +8,15 @@
       "direction": "rtl",
       "language": "ar",
       "file": "Injil.xml"
+    },
+    {
+      "id": "sblgnt",
+      "code": "bible",
+      "original": true,
+      "name": "SBL Greek New Testament",
+      "direction": "ltr",
+      "language": "gr",
+      "file": "SBLGNT.xml"
     }
   ]
 }
