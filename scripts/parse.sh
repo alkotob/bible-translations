@@ -30,7 +30,7 @@ Dir.entries(dir).each do |filename|
   iso = meta['language']
   direction = meta['direction']
   original = t_id === 'sblgnt'
-  code = "q#{meta['LanguageIsoCode']}#{t_id}"
+  code = "b#{meta['language']}#{t_id}"
   code = "bible" if original
   name = meta['name']
 
