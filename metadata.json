@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "id": "injil",
+      "code": "qinjil",
+      "original": false,
+      "name": "إنجيل",
+      "direction": "rtl",
+      "language": "ar",
+      "file": "Injil.xml"
+    }
+  ]
+}
