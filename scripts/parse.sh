@@ -26,17 +26,14 @@ Dir.entries(dir).each do |filename|
 
   # Parse metadata
   meta = doc.css('bible').first
-  t_id = meta['id']
+  code = t_id = meta['id']
   iso = meta['language']
   direction = meta['direction']
   original = t_id === 'sblgnt'
-  code = "b#{meta['language']}#{t_id}"
-  code = "bible" if original
   name = meta['name']
 
   output[:data] << {
     id: t_id,
-    code: code,
     original: original,
     name: name,
     direction: direction,

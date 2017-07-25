@@ -2,7 +2,6 @@
   "data": [
     {
       "id": "injil",
-      "code": "barinjil",
       "original": false,
       "name": "إنجيل",
       "direction": "rtl",
@@ -11,7 +10,6 @@
     },
     {
       "id": "sblgnt",
-      "code": "bible",
       "original": true,
       "name": "SBL Greek New Testament",
       "direction": "ltr",
