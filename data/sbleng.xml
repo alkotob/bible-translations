@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bible id="sbleng" name="The Path" direction="ltr" language="en">
   <book id="sbl" name="The Path">
-    <chapter id="0" name="The Word Of Allah">
+    <chapter id="1" name="The Word Of Allah">
       <verse id="1"> Praise to Allah who cast his Word to mankind as Nasr for them, to bring them out of darkness into the light even though the ignorant hate it. </verse>
       <verse id="2"> Surely Issa is the Word of Allah from eternity that has become flesh and we saw his glory. </verse>
       <verse id="3"> Allah is too exalted to be seen by eyes, but the Word through whom everything was created is the secret of Allah made manifest. </verse>
@@ -10,7 +10,7 @@
       <verse id="6"> Surely the prophets have come to you with the Sharia by which you are guided. </verse>
       <verse id="7"> But Issa is the grace of Allah and the truth to a people who will believe.</verse>
     </chapter>
-    <chapter id="1" name="Yahya">
+    <chapter id="2" name="Yahya">
       <verse id="1"> Here is the account of the worship of Zakariya who was a descend­ant of Harun. </verse>
       <verse id="2"> He lived with his wife Ashba near Bayt el-Maqdis and they were God-fearing. </verse>
       <verse id="3"> But they did not have a son because she was barren and her husband was very old. </verse>
@@ -52,7 +52,7 @@
       <verse id="39"> This is the mercy of your Lord to those in the shadow of death and is peace like a sunrise upon those who are guided. </verse>
       <verse id="40"> Yahya grew up in the wilderness, becoming strong in the Spirit, until the day he brought his people the clear message.</verse>
     </chapter>
-    <chapter id="2" name="Childhood">
+    <chapter id="3" name="Childhood">
       <verse id="1"> When Yusif became aware of Mariam's pregnancy while he was not yet married to her, he wanted to send her away secretly so as not to disgrace her, for he was God-fearing. </verse>
       <verse id="2"> But an angel came to him in a dream and said, O Yusif, what prohibits you from taking your fiancée to your house? She has conceived by the Spirit of Allah and will give birth to a son whom you will name Issa, for he will be the Nasr to his people from the sins they commit. </verse>
       <verse id="3"> It is the sure promise in the Tawrat, The virgin will be given a son, for your Lord is Near and the Answerer. </verse>
@@ -102,7 +102,7 @@
       <verse id="47"> They returned to Nasira and the boy lived in obedience to his mother and Yusif, and Mariam kept secret all this for she was among those that memorize. </verse>
       <verse id="48"> Issa increased greatly in both knowledge and body and received the favor of both Allah and all people.</verse>
     </chapter>
-    <chapter id="3" name="Baptism">
+    <chapter id="4" name="Baptism">
       <verse id="1"> The account of the beginning of the good news of Issa through your Lord’s sending Yahya the son of Zakariya in the wilderness. He came to the Jordan River calling for the ghusl from Allah for those who repent. </verse>
       <verse id="2"> This is the voice crying in the Tawrat to prepare the way for our Lord and make it straight. Raise every valley and lower every mountain. Straighten every curve and make smooth every rough place so that the people might see the mercy of Allah. </verse>
       <verse id="3"> Yahya was wearing a robe made of camel's hair and girded himself with a leather belt. For food he ate locusts and honey and he was among the ascetics. </verse>
@@ -115,7 +115,7 @@
       <verse id="10"> A group of people asked him, What can we do to be repentant? Yahya said, Whoev­er has two robes, let him give one away and whoever has food share it with others. </verse>
       <verse id="11"> Some tax collectors asked, How can we be just? Yahya said, What is allotted to you, take and do not be greedy. </verse>
       <verse id="12"> A band of soldiers said, What can we do to be those that do good? Yahya answered, No injustice or slander, but instead be content with your pay. </verse>
-      <verse id="13"> The people were watching for the Nasr of Allah. They were asking among themselves if Yahya was the Mustafa Rasul. 14) Yahya said, I immerse you with water. But one who is stronger than I, whom I am not worthy to untie the laces of his shoes, will come and immerse you with the Spirit of Allah and you will be pure. </verse>
+      <verse id="13"> The people were watching for the Nasr of Allah. They were asking among themselves if Yahya was the Mustafa Rasul. 14) Yahya said, I immerse[^1] you with water. But one who is stronger than I, whom I am not worthy to untie the laces of his shoes, will come and immerse you with the Spirit of Allah and you will be pure. </verse>
       <verse id="15"> He will take his winnowing fork and purify his threshing floor. He will gather the wheat into his barn and throw the chaff into hell. </verse>
       <verse id="16"> In this way Yahya came warning and bringing good news and the people were learning from him greatly. </verse>
       <verse id="17"> A group of Priests came from Bayt el-Maqdis asking, Yahya, who are you? He answered, I am not the Owner of the Age whom you are waiting for. </verse>
@@ -157,7 +157,7 @@
       <verse id="53"> He called to himself the owner of the house and said, People offer the good wine before the lesser and when the guest gets drunk, then they present the other. But you have delayed till now what is should have been offered first, not the way people usually do it! </verse>
       <verse id="54"> This was Issa’s first miracle and he displayed his glory and it shown forth. His helpers increased in their faith and grew stronger. Then Issa went down to Kafr Nahum with his mother and his brothers and the Hawariyun.</verse>
     </chapter>
-    <chapter id="4" name="Those Born">
+    <chapter id="5" name="Those Born">
       <verse id="1"> When Id el-Nahr drew near, Issa made the Hajj to Bayt el-Maqdis. He found in the House of Allah sellers of cattle, sheep and doves and money changers at their tables sitting. </verse>
       <verse id="2"> He made a whip from ropes and drove them all from the House of Allah and turned over their tables and said, Remove this from here! Will you turn the House of Allah into a place of commerce and a market? </verse>
       <verse id="3"> The Hawariyun remembered the word of truth in the Zabur, Zeal for your house, O my God, truly consumes me. </verse>
@@ -185,9 +185,9 @@
       <verse id="25"> Yahya said, No one receives any­thing except from Allah. Behold, you are the ones who witness to what I said to you that I am not the Masih whom you are expecting. I am a messenger who comes before him as a helper. </verse>
       <verse id="26"> Truly, I am like a friend of the bride­groom who supports him and helps him happily. Today my joy is complete in him. I will decrease but he will rise. </verse>
       <verse id="27"> Whoever comes from the world speaks from, but whoever comes down from Allah is the most honorable of the messengers and the most exalted. He speaks what he has heard and seen from Allah and is filled with the Spirit of Allah . Whoever believes in him has made sure that the promise of Allah is true. </verse>
-      <verse id="28"> Allah loves his Word whom he has spoken and has placed in his hands the malakut of all things and strengthened him. Whoever believes in him will have Nasr but whoever does not believe will re­ceive wrath from Allah forever. </verse>
+      <verse id="28"> Allah loves his Word whom he has spoken and has placed in his hands the malakut[^2] of all things and strengthened him. Whoever believes in him will have Nasr but whoever does not believe will re­ceive wrath from Allah forever. </verse>
       <verse id="29"> Yahya continued to call the people to the faith as a guide. But when he denounced King Antibas's marriage to Hirudya the wife of his brother, he threw him into prison unjustly. Issa heard about the matter and in cau­tion headed toward Jalil. </verse>
-      <verse id="30"> The faqihs were alarmed that the disciples of Issa were increasing and had even surpassed Yahya's. But Issa himself did not immerse the people but his helpers gave the people Ghusl. </verse>
+      <verse id="30"> The faqihs were alarmed that the disciples of Issa were increasing and had even surpassed Yahya's. But Issa himself did not immerse[^3] the people but his helpers gave the people Ghusl. </verse>
       <verse id="31"> He left Bayt el-Maqdis heading for Jalil and passed through Nablus, the land of Yaqub that he gave, with its well, to his son Yusif in love. </verse>
       <verse id="32"> As his travels continued until late afternoon, he sat on the edge of the well. A woman of the Samiriyun came to draw water. He asked her, Give me some water, for he had become very thirsty. </verse>
       <verse id="33"> She said, How, when a Yahudi does not ask water of a Samiriya and the Yahud have exalted themselves over our people in such a big way? At that time the helpers were in the city looking for food for themselves. </verse>
@@ -210,7 +210,7 @@
       <verse id="50"> Many of the Samiriyun believed in him after the woman bore witness to him saying, He has revealed to me what I have done. They gave them hospitality and he remained and guided them two days . </verse>
       <verse id="51"> They increased in faith and they said to the Samiriya, We certainly believed in him when you witnessed about him, but today we believe and witness that Issa has come to us from Allah as Nasr.</verse>
     </chapter>
-    <chapter id="5" name="The Leper">
+    <chapter id="6" name="The Leper">
       <verse id="1"> Issa went to Jalil though he knew that no honor is to be expected for a prophet in his own country. </verse>
       <verse id="2"> As the people of Jalil witnessed his signs in Bayt el-Maqdis during the days of the feast, they were friendly to his party and he found among them a welcome. Then he came to Kafr Qana where he turned the water into wine. </verse>
       <verse id="3"> There came to him from Kafr Nahum an official of the king begging him to come and heal his son for he was near to death. </verse>
@@ -270,7 +270,7 @@
       <verse id="57"> Or like one who fills an old skin with new wine and then it tears it to pieces. New wine is placed in new skins to preserve and protect them. </verse>
       <verse id="58"> Surely the one who rejects the new is he who is accustomed to the old and those who desire the new are fewer in number.</verse>
     </chapter>
-    <chapter id="6" name="The Sabbath">
+    <chapter id="7" name="The Sabbath">
       <verse id="1"> During the feast of Id el-Nahr, Issa turned his face towards Bayt el-Maqdis to perform the Hajj. </verse>
       <verse id="2"> There, at the Hitta gate, was a group of blind, lame and paralyzed people waiting for an angel to descend in a spring and stir the water. Whoever would then arrive first at the water would be healed. </verse>
       <verse id="3"> Issa noticed one sick person stretched out by the water who had been sick for 38 years so confined. Issa knew of his problem and asked, Do you want to be healed? </verse>
@@ -312,7 +312,7 @@
       <verse id="39"> Issa stared at them being both angry and sad. He said to the man, Stretch forth your hand! It became straight after it had been withered. </verse>
       <verse id="40"> The crowd dispersed and the faqihs and the followers of King Antibas formed a plan among themselves against Issa seeking evil.</verse>
     </chapter>
-    <chapter id="7" name="The Blessed">
+    <chapter id="8" name="The Blessed">
       <verse id="1"> Issa and those who were with him went to the Sea of Jalil and a crowd followed him who had heard of his signs. They came to him from every direction from the regions of el-Sham seeking to be healed. </verse>
       <verse id="2"> The Hawariyun prepared a boat for him so that those seeking healing would not crowd him, for every sick person began trying to make a way to him to touch him with the others who were touching. </verse>
       <verse id="3"> Whoever had in him a touch from Shaytan, when they saw him, fell down shouting, You are from the Spirit of Allah! But he commanded them to keep silent concerning himself and he healed them all. </verse>
@@ -361,7 +361,7 @@
       <verse id="46"> What merit is it to give a loan to those whom you can count on? This is the way sin­ners lend to other sinners. </verse>
       <verse id="47"> If you only greet your brethren what merit is this? Even the unbelievers do that! Therefore, be eager to do good and do it in a better way. For Allah is the best of those who do good.</verse>
     </chapter>
-    <chapter id="8" name="Worship">
+    <chapter id="9" name="Worship">
       <verse id="1"> Issa said, Beware of worshiping to be seen by people so that you lose your reward. For Allah is aware of what you do. </verse>
       <verse id="2"> In this way the hypocrites give their zakat and make obvious their alms in the musallas and in the streets, thereby seeking thanks from people. They will be rewarded with what they have earned. </verse>
       <verse id="3"> There­fore, make secret your alms and do not let your left hand know what your right hand is doing. Allah will reward you for he does not lose the reward of those who do good. </verse>
@@ -404,7 +404,7 @@
       <verse id="40"> But whoever does not do my word is like a foolish person who founded his build­ing on sand. When the rain fell and the flood rose and the wind blew, it was among those that fell. </verse>
       <verse id="41"> When Issa finished his word the people were bewil­dered for the faqihs had not come to them with anything like his clear authority.</verse>
     </chapter>
-    <chapter id="9" name="Healing">
+    <chapter id="10" name="Healing">
       <verse id="1"> Issa came to Kafr Nahum and was met by a delegation of a Ruman officer whose beloved servant was dying of a disease. </verse>
       <verse id="2"> Some of the Priests urged him to go and heal the servant, saying, Surely this Hanif is worthy of your help for he loves our people and has even built us a musalla. </verse>
       <verse id="3"> Issa responded to their request. When he came near the house, the Rumani sent a friend to carry a message. </verse>
@@ -455,7 +455,7 @@
       <verse id="48"> A woman shouted and said, Blessed is the one who bore you and nursed you as a child! Issa replied, Yet truly blessed is the one who obeys Allah in word and deed! </verse>
       <verse id="49"> His mother and his brothers came to him and stood outside the house wanting to speak to him. He was informed of their coming but motioned to his helpers and said, My true mother and brothers are those that are my helpers in the way of Allah. For whoever does the will of Allah, my Father, will be my family.   </verse>
     </chapter>
-    <chapter id="10" name="The Sower">
+    <chapter id="11" name="The Sower">
       <verse id="1"> Issa returned to the shore of the sea of Jalil teaching the people. They crowded him so that he climbed into a boat in the sea and sat and told them a parable. </verse>
       <verse id="2"> A sower while he was plant­ing seed dropped some seed on the path. But birds came and fell upon it and picked it up as food. </verse>
       <verse id="3"> Some of the seed fell on rocks and it grew up quickly since it had no depth to it. But when the sun came out on that which had no roots, it consumed it, burning it and withering it. </verse>
@@ -499,7 +499,7 @@
       <verse id="41"> That is the way it will be on the day when the hour will come and the angels will chose the good and cast the sinners into hell as firewood. </verse>
       <verse id="42"> Issa said to his Hawari­yun, Do you understand? They said, Yes. He said, Whoever follows me from among the learned is like one who has treasure. He brings out both the new and the old from which he has gained and gave.</verse>
     </chapter>
-    <chapter id="11" name="The Touch">
+    <chapter id="12" name="The Touch">
       <verse id="1"> Issa called his helpers in the evening to cross over the Sea of Jalil to the east. </verse>
       <verse id="2"> They rode in Issa's boat as other boats followed them and they left behind them on the shore crowds of people. </verse>
       <verse id="3"> Issa moved to the side of the boat and rested on a pillow to sleep. But the wind blew up a storm and the waves became rough and struck the boat so that it almost filled to the point of sinking. </verse>
@@ -544,7 +544,7 @@
       <verse id="42"> No prophet is without honor, except in his own country among his people and his family, said Issa. </verse>
       <verse id="43"> He was surprised at the weakness of their faith and did not do any more important miracles there, except among a few that he laid his hand on and healed.</verse>
     </chapter>
-    <chapter id="12" name="Furqan">
+    <chapter id="13" name="Furqan">
       <verse id="1"> Issa toured the cities and villages teaching the people in the musallas of Allah and proclaiming the Malakut of Allah and healing their sicknesses from which they were suffering. </verse>
       <verse id="2"> When he saw all the miserable people like sheep without a shepherd, he had pity on them for they were scattered and waiting. </verse>
       <verse id="3"> He said to his followers, O my people, how great is the harvest and how few are the workers. Pray to Allah to send into his harvest those that will work. </verse>
@@ -590,7 +590,7 @@
       <verse id="43"> So he sent his guard to the prison and he brought the head of Yahya on a platter and presented it to the wife of the king who was the revenger. </verse>
       <verse id="44"> The followers of Yahya came and buried him in the ground and brought to Issa this important news.</verse>
     </chapter>
-    <chapter id="13" name="Maida">
+    <chapter id="14" name="Maida">
       <verse id="1"> When the Hawariyun returned they met with Issa and reported to him what they had done. </verse>
       <verse id="2"> As waves of people coming and kept them too busy to eat, Issa called them to look for an isolated area so that they could rest. </verse>
       <verse id="3"> They rode in a boat but the people knew the way they were going and raced to them from every direction on foot. </verse>
@@ -665,7 +665,7 @@
       <verse id="72"> There is no impurity in what you eat for it does not enter into your hearts but into your stomachs and then passes out. Therefore, all your food and drink is halal for you. Do you not comprehend? </verse>
       <verse id="73"> For depravity, murder, malice, cheating, foolishness, theft, gossip, adultery, immorality, greed, envy and pride, are evil that comes out of the hearts of people and this is what truly defiles you.</verse>
     </chapter>
-    <chapter id="14" name="The Keys">
+    <chapter id="15" name="The Keys">
       <verse id="1"> Issa left Kafr Nahum for Lebanon and a woman came to him from a heathen people. She said, My Mawla, have mercy, for my daughter has a touch from Shaytan in her and she is in painful tormented from it. </verse>
       <verse id="2"> Issa ignored her. The Hawariyun approached him and said, If only you would send away this woman from us for she persists in following us and shouting! </verse>
       <verse id="3"> Issa replied, Surely, Allah has sent me to begin with the sheep who have gone astray from Bani Israel. </verse>
@@ -711,7 +711,7 @@
       <verse id="43"> Those who are ashamed of my name are the losers. For when I come in the glory of Allah and the angels, I will be ashamed of them and they will be in the hereafter dis­claimed. </verse>
       <verse id="44"> But there are some from among you who will not die until the Malakut of Allah will be manifest­ed with power as they witness­ it.</verse>
     </chapter>
-    <chapter id="15" name="The Manifestation">
+    <chapter id="16" name="The Manifestation">
       <verse id="1"> After several days Issa took with him from his helpers Safwan, Khalifa and Hanna and ascended the mountain Jabal el-Sheikh. </verse>
       <verse id="2"> Then, in devoted prayer he manifested before their eyes into a different appearance as his clothes became white and he shined with light. </verse>
       <verse id="3"> Then Musa and Elias appeared to them in glory speaking to him about his death in Bayt el-Maqdis that was a certain promise. </verse>
@@ -778,13 +778,13 @@
       <verse id="64"> So he commanded that he be whipped until he paid all of the debt, making of him an example. </verse>
       <verse id="65"> Likewise, Allah will torture you if you do not forgive the sins of your brethren with all your heart and pardon one another in grati­tude! </verse>
       <verse id="66"> Issa remained in Jalil not desiring to go to Bayt el-Maqdis for the Priests there were planning evil and murder against him . </verse>
-      <verse id="67"> When the Feast of Tents approached, his brethren said to him, You should leave this area and go on to Bayt el-Maqdis so that your helpers can witness your signs and treat you with even more honor. </verse>
+      <verse id="67"> When the Feast of Tents[^4] approached, his brethren said to him, You should leave this area and go on to Bayt el-Maqdis so that your helpers can witness your signs and treat you with even more honor. </verse>
       <verse id="68"> For it is not right for anyone who has been given the signs that you have been given to remain hidden and unknown. </verse>
       <verse id="69"> Issa said to his brothers, who did not believe in him, My appointed time has not yet come, but you should go to Bayt el-Maqdis on every occasion for the Hajj. </verse>
       <verse id="70"> The world hates me but does not hate you, for I came to testify against the cor­ruption of the earth and it is great! </verse>
       <verse id="71"> Make the Hajj yourselves to Bayt el-Maqdis. As for me, I will not wit­ness the feast openly for my appointed time has not yet come. So he did not leave Jalil.</verse>
     </chapter>
-    <chapter id="16" name="The Priests">
+    <chapter id="17" name="The Priests">
       <verse id="1"> When Issa's brothers went up to Bayt el-Maqdis for the Feast of Tents, he followed them secretly because the people were asking about him. </verse>
       <verse id="2"> But the people kept quiet their secret talk for fear of the Priests. They whispered to one another saying, He is a pious man, while others said, He is a deceiver. </verse>
       <verse id="3"> At the mid-point of the feast Issa came to the House of Allah teaching the people. He amazed them with his knowledge of the Book of Allah and said, From where did he get this? For he has not studied! </verse>
@@ -874,7 +874,7 @@
       <verse id="87"> Issa said, I am the Eternal Word and I am before Ibrahim! </verse>
       <verse id="88"> They planned to stretch forth their hands to stone him. But he turned and went out of the House of Allah and disappeared from their eyes.</verse>
     </chapter>
-    <chapter id="17" name="The One Born Blind">
+    <chapter id="18" name="The One Born Blind">
       <verse id="1"> While Issa was on the way he passed by a man who was born blind. The Hawari­yun said, Perhaps he has committed a sin that has brought on the blindness or maybe his parents are sinners. </verse>
       <verse id="2"> Issa said, There is no power or strength except in Allah. Neither he nor his parents were the cause, but rather to magnify the one who sent me as a rasul. I do as he does. Surely this is necessary for me to do while it is still daytime for I am the light of the world. </verse>
       <verse id="3"> When the night comes what can you do, for you will be incapable? </verse>
@@ -916,7 +916,7 @@
       <verse id="39"> Disagreeing, one of the people said, Do you hear him? He is certainly crazy and possessed by jinn! </verse>
       <verse id="40"> Another person said, It is not possible for one possessed by jinn to bring forth this word and to heal a man born blind, causing him to be see!</verse>
     </chapter>
-    <chapter id="18" name="The Seventy">
+    <chapter id="19" name="The Seventy">
       <verse id="1"> Issa crossed the Jordan River to the east as droves of people followed him seeking healing and he healed them. </verse>
       <verse id="2"> Then he chose seventy from among his followers and sent them to the regions of Jordan, two by two, to go before him and make straight ways among the people for him. </verse>
       <verse id="3"> He said to them, How great is the harvest and how few are those that work! Ask Allah to lead into his path those that will do a good job. </verse>
@@ -985,7 +985,7 @@
       <verse id="66"> But Allah scoffed at him because of his foolishness and said to him, What is this that you have gathered? For this very night I will cause you to die! </verse>
       <verse id="67"> So it is with the one who has been deceived by the life of this world, whose money has not profited him with Allah and has not remained.</verse>
     </chapter>
-    <chapter id="19" name="The Hump-backed">
+    <chapter id="20" name="The Hump-backed">
       <verse id="1"> Say, O my beloved, be like those who are watch­ing for their master, </verse>
       <verse id="2"> Work in my path and be careful, as servants who anticipate the hour of the return of their Mawla at an unexpected time, so they are not sleeping. </verse>
       <verse id="3"> For if he comes to them in the middle of the night, they open up for him and he will find them awake. Those are the ones who their Lord will be pleased with and he will seat them and serve them; they are the ones who will prosper. </verse>
@@ -1053,7 +1053,7 @@
       <verse id="65"> But do not rejoice that I have given you obvious authority over Shaytan. Instead, rejoice that you will be given your account in your right hand! </verse>
       <verse id="66"> Issa rejoiced and praised the Creator of the heavens and the earth who hid from the wise and showed the simple. He said, I have appointed you over everything. No one know the steward except the one who appointed him. No one knows Allah except the steward and those whom the steward introduces him to. He said to his helpers, Many kings and proph­ets have desired to see what you are seeing but it was not fulfilled for them. Therefore, blessed are you, O group of chosen people!</verse>
     </chapter>
-    <chapter id="20" name="Marriage">
+    <chapter id="21" name="Marriage">
       <verse id="1"> The time for the Feast of Lights came in Bayt el-Maqdis in the winter, and Issa made the porches of Sulayman a retreat for himself. The people sur­rounded him saying to him, Why do you keep us confused about yourself? If you are our Mustafa Rasul, won’t you inform us with certainty? </verse>
       <verse id="2"> Issa replied, I have told you the truth but you have not believed. I came to you with the signs of Allah and did them for you and they are witnesses to me. </verse>
       <verse id="3"> How are you to believe when you are not from among my sheep, those that listen to me and desire my path. I surely know them and they have a portion in heaven and no one will snatch them from me neither will they perish. </verse>
@@ -1120,7 +1120,7 @@
       <verse id="64"> If you have a hired laborer who is farming your land or taking care of your sheep, do you say to him when he returns from the field, Here is your food, now have dinner? Or do you say to him, Prepare my dinner and wait on me until I am satisfied, then I will permit you to eat. If the laborer obeys his master, does that make him distinguished? </verse>
       <verse id="65"> In like manner, when you have done all that I have commanded you then say, Truly we are but simple servants, merely doing our duty.</verse>
     </chapter>
-    <chapter id="21" name="Laazar">
+    <chapter id="22" name="Laazar">
       <verse id="1"> Laazar, the brother of Mariya and Martha from the village of el-Ayzariya, became sick. The two sisters sent a message to Issa saying, Our Mawla, the one you love is very sick. </verse>
       <verse id="2"> When the news reached Issa he said, Laazar is not sick unto death, but so that you can see through him the glory of Allah and the Masih manifested. </verse>
       <verse id="3"> For the sake of his love for Mariya, Martha and Laazar, Issa remained in that place for two days and did not depart. Then he said to his Hawariyun, Come, let us return to Bayt el-Maqdis. They said to him, Will you return to the people who want to do evil to you? </verse>
@@ -1182,7 +1182,7 @@
       <verse id="59"> Issa said, If the unjust Qadi desires to do justly, will not Allah all the more treat fairly his servants who watch for his coming with patience and prayer and then save them with a mighty Nasr? </verse>
       <verse id="60"> Of course! But will the Masih find faith in the Promised Land on the day when he descends a second time?</verse>
     </chapter>
-    <chapter id="22" name="The Dinars">
+    <chapter id="23" name="The Dinars">
       <verse id="1"> When the promise of your Lord ap­proached, Issa turned towards Bayt el-Maqdis with determination. </verse>
       <verse id="2"> He sent his helpers to go ahead of him and they came to a village of the Samiriyun to prepare a place for him. </verse>
       <verse id="3"> But its people refused to receive him because he was making the hajj to Bayt el-Maqdis and because the Samiriyun have a differ­ent qibla. </verse>
@@ -1267,7 +1267,7 @@
       <verse id="82"> Many people came to el-Ayzariya to see Issa and to see Laazar whom he had raised from the tomb alive. </verse>
       <verse id="83"> The Priests counseled against Laazar to kill him because many people had left them and followed the way of Issa being guid­ed.</verse>
     </chapter>
-    <chapter id="23" name="The Donkey">
+    <chapter id="24" name="The Donkey">
       <verse id="1"> When they drew near to Bayt Faji on the east side of the mountain Jabal el-Zaytun, Issa said to two of his Hawari­yun, Go into this village and you will find in it a young donkey tied up that no one has ever ridden . </verse>
       <verse id="2"> Loosen it and bring it. If anyone asks you about it, tell them that Our master the Masih needs it and that he will return it immediately. </verse>
       <verse id="3"> So they went and found the donkey at one of the gates. They loosened it and answered those who asked them about it as he had said and they gave them permission. They brought it and then cast clothing on it. Issa mounted it and what was said by the prophet in the Book was fulfilled. </verse>
@@ -1318,7 +1318,7 @@
       <verse id="48"> When the king entered to see those invited, there was one person there who did not have on the wedding clothes. So the king said to him, How did you enter with us for your clothing is not of these clothes? </verse>
       <verse id="49"> The man was silent, so the king said to his servants, Take him and bind him, then burn him in hell ! For many are called but few are chosen.</verse>
     </chapter>
-    <chapter id="24" name="The Best Commandments">
+    <chapter id="25" name="The Best Commandments">
       <verse id="1"> The faqihs and the Priests were determined to put their hands on him because they knew that he was referring to them in the parables he spoke . But they feared the people who were honoring their Lord. </verse>
       <verse id="2"> So they sent their eyes to follow him, along with a delegation form the party of the governor, pretending to be interested in what he preached about in order to dispute with him so as to bring him before the gover­nor. They were saying to him, </verse>
       <verse id="3"> We surely know that you truthfully speak to us and that you are blameless with respect to truth. But instead, you call people to the path of Allah. Therefore, is it right for us to pay the tax to Caesar or shall we withhold it? </verse>
@@ -1376,7 +1376,7 @@
       <verse id="55"> Those who believe in me and follow my path are the people of the light. But whoever disbelieves and rejects will not be condemned by me. </verse>
       <verse id="56"> I have not come to condemn people but to give them Nasr. Those who reject me, Allah will bring into account in the hereafter according to what they were told. Surely, I speak of what I have seen before Allah and of what he has commanded me and Allah is the best of those that give Nasr.</verse>
     </chapter>
-    <chapter id="25" name="The Separation">
+    <chapter id="26" name="The Separation">
       <verse id="1"> When Issa went out from the House of Allah one of his helpers showed amaze­ment. He said, O My Mawla, see the stones of this House, how strong and beautiful they are! Issa said to him, This House will be destroyed and each of its stones knocked down. </verse>
       <verse id="2"> He was among a group of his helpers on the mountain of Jabal el-Zaytun sitting across from the House. Then Safwan, Khalifa, Andri and Hanna asked him, When will the day of destruction be and what will be the sign of your return and the end of time? He answered, There will come those who will invent lies about Allah, each one saying, Here is the expected Mustafa Rasul. Do not let them lead you away from the path neither follow any of them. </verse>
       <verse id="3"> There will be a great trial on the earth and fighting from which you will have no refuge. When the news of that comes, be patient, for the promise has not yet come nor drawn near. </verse>
@@ -1431,7 +1431,7 @@
       <verse id="53"> It will be such because you did not feed me when I was hungry, you did not give me drink when I was thirsty, you did not pro­vide me shelter when I was a stranger, you did not clothe me when I was naked, you did not attend to me when I was sick and you did not visit me when I was in prison. Then they will ask, Our Lord, how is it that we did no good deeds? He will answer, If you have not done a good deed to one of the least of these my brothers, it is as if you did no good deed to me in unbelief. </verse>
       <verse id="54"> This, therefore, is the day of separation. And what can I inform you concerning the day of separa­tion? On that day those that have done evil will be punished with the flame. But those who have done good deeds will have the best reward.</verse>
     </chapter>
-    <chapter id="26" name="The Towel">
+    <chapter id="27" name="The Towel">
       <verse id="1"> Issa said to his helpers, The Feast of Sacrifice will be here after two days and I will die on a cross. </verse>
       <verse id="2"> The Priests were called to the house of Qayafa the mufti for the High Council. They plotted against him to lay their hands on him sneakily and so kill him with slyness. </verse>
       <verse id="3"> But they said, It would be best not for this to happen during the feast so there will be no unrest among the people or chaos. </verse>
@@ -1480,7 +1480,7 @@
       <verse id="46"> Whoev­er has money, let him take it, or a bag, let him carry it. Whoever does not have a sword, let him sell his robe and purchase a sword. Remember the word from the Tawrat, They considered him as one of the wicked and counted him as such. Know that the promise for me in the Book is true. </verse>
       <verse id="47"> The Hawariyun said, Our Mawla, we have two swords here. He answered, It is enough!</verse>
     </chapter>
-    <chapter id="27" name="The Sakina">
+    <chapter id="28" name="The Sakina">
       <verse id="1"> O you who believe, if you believe in Allah sincerely, then believe in me. Do not be afraid, for you have with Allah gardens as dwelling places. </verse>
       <verse id="2"> I will certainly go ahead of you to Allah to prepare them for you, then I will return for you a second time. </verse>
       <verse id="3"> But you know the path to my higher qibla. Tuma the Hawari said, Our Mawla, we do not possess knowl­edge of it. </verse>
@@ -1553,7 +1553,7 @@
       <verse id="70"> O Allah, You are the Righteous one whom I have known openly. These know that I am your rasul but the people of the world have not known you because of unbelief. </verse>
       <verse id="71"> I have lifted up among the believers your name and I will reveal your glory to them, so that they might love me as you love me and that I might remain present among them.</verse>
     </chapter>
-    <chapter id="28" name="Injustice">
+    <chapter id="29" name="Injustice">
       <verse id="1"> Issa with the Hawari­yun crossed over the valley Wadi Jawz at the south end and came to the Garden of Jasmaniyia. He said to them, Pray that you not fall into temptation and wait here for I am going not far from you for prayer. </verse>
       <verse id="2"> He took along with him Safwan, Khalifa and Hanna and said, as sorrow and depression came upon him, My soul is very sad, even to the point of death. Watch and stay awake here so that drowsiness does not overtake you or sleep. </verse>
       <verse id="3"> He withdrew not far from them and prayed to Allah in prostration. He said, O Allah, if you would only remove from me the promise of separation, but as you will, not as I will. </verse>
@@ -1611,7 +1611,7 @@
       <verse id="55"> Bilat said to them, Look, here is your king! They cried to him, Kill him and crucify him! He asked them, Shall I kill your king? The mufti said to him, There is no king except Caesar! When their anger grew hotter, Bilat gave up hope for them. So he took some water and washed his hands in front of them and said to them, I am free from the blood of this righteous one, so to you belongs the decision! </verse>
       <verse id="56"> They all said together, May his blood be on us and on our children! It was a wretched decision. So he released Abbas, but he had Issa lashed and turned him over to them to be crucified with the evil ones.   </verse>
     </chapter>
-    <chapter id="29" name="The Cross">
+    <chapter id="30" name="The Cross">
       <verse id="1"> This is the account of Yahuda, who betrayed his Mawla and pursued his death and became among those that re­gret. </verse>
       <verse id="2"> For he went to the Priests in the House of Allah and returned to them the thirty pieces. He said to them, I have sold innocent blood and I am surely a sinner. </verse>
       <verse id="3"> But they withdrew from him and looked down on him, saying to him, Attend to your own affairs and take care of yourself for we are not concerned. </verse>
