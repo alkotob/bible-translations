@@ -31,6 +31,14 @@
       "direction": "ltr",
       "language": "en",
       "file": "sbleng.xml"
+    },
+    {
+      "id": "tma",
+      "original": false,
+      "name": "المعنى الصحيح لإنجيل المسيح",
+      "direction": "rtl",
+      "language": "ar",
+      "file": "tma.xml"
     }
   ]
 }

@@ -29,7 +29,7 @@ Dir.entries(dir).each do |filename|
   code = t_id = meta['id']
   iso = meta['language']
   direction = meta['direction']
-  original = t_id === 'sblgnt'
+  original = t_id === 'gnt'
   name = meta['name']
 
   output[:data] << {
