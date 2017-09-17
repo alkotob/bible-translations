@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bible id="sblgnt" name="SBL Greek New Testament" direction="ltr" language="gr">
+<bible id="gnt" name="Βίβλος (GNT)" direction="ltr" language="gr">
   <book id="mat" name="ΚΑΤΑ ΜΑΘΘΑΙΟΝ">
     <chapter id="1">
       <verse id="1">Βίβλος γενέσεως Ἰησοῦ χριστοῦ υἱοῦ Δαυὶδ υἱοῦ Ἀβραάμ</verse>

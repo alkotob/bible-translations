@@ -1,20 +1,36 @@
 {
   "data": [
     {
+      "id": "gnt",
+      "original": true,
+      "name": "Βίβλος (GNT)",
+      "direction": "ltr",
+      "language": "gr",
+      "file": "gnt.xml"
+    },
+    {
       "id": "injil",
       "original": false,
       "name": "إنجيل",
       "direction": "rtl",
       "language": "ar",
-      "file": "Injil.xml"
+      "file": "injil.xml"
     },
     {
-      "id": "sblgnt",
-      "original": true,
-      "name": "SBL Greek New Testament",
+      "id": "sabeel",
+      "original": false,
+      "name": "السَّبِيْلُ",
+      "direction": "rtl",
+      "language": "ar",
+      "file": "sabeel.xml"
+    },
+    {
+      "id": "sbleng",
+      "original": false,
+      "name": "The Path",
       "direction": "ltr",
-      "language": "gr",
-      "file": "SBLGNT.xml"
+      "language": "en",
+      "file": "sbleng.xml"
     }
   ]
 }
