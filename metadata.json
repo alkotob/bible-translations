@@ -39,6 +39,14 @@
       "direction": "rtl",
       "language": "ar",
       "file": "tma.xml"
+    },
+    {
+      "id": "zabur",
+      "original": false,
+      "name": "الزَّبُورُ",
+      "direction": "rtl",
+      "language": "ar",
+      "file": "zabur.xml"
     }
   ]
 }
