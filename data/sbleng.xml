@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bible id="sbleng" name="The Path" direction="ltr" language="en">
+  <files>
+    <file type="pdf" mime="application/pdf" name="sbleng.pdf" />
+    <file type="epub" mime="application/epub+zip" name="sbleng.epub" />
+    <file type="mobi" mime="application/x-mobipocket-ebook" name="sbleng.mobi" />
+  </files>
   <book id="sbl" name="The Path">
     <chapter id="1" name="The Word Of Allah">
       <verse id="1"> Praise to Allah who cast his Word to mankind as Nasr for them, to bring them out of darkness into the light even though the ignorant hate it. </verse>

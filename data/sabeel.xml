@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bible id="sabeel" name="السَّبِيْلُ" direction="rtl" language="ar">
+  <files>
+    <file type="pdf" mime="application/pdf" name="sabeel.pdf" />
+    <file type="epub" mime="application/epub+zip" name="sabeel.epub" />
+    <file type="mobi" mime="application/x-mobipocket-ebook" name="sabeel.mobi" />
+  </files>
   <book id="sbl" name="السَّبِيْلُ">
     <chapter id="1" name="كلمة  الله">
       <verse id="1">سُبْحَانَ  الَّذِي  أَلْقَى  بِكَلِمَتِهِ  إِلَى  النَّاسِ  نَصْراً  لَهُمْ  لِيُخْرِجَ  أَصْحَابَ  الظُّلُمَاتِ  إِلَى  النُّورِ  وَلَوْ  كَرِهَ  الْجَاهِلُونَ</verse>

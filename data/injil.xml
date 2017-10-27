@@ -1,5 +1,8 @@
 <?xml version="1.0"?>
 <bible id="injil" name="إنجيل" direction="rtl" language="ar">
+  <files>
+    <file type="pdf" mime="application/pdf" name="injil.pdf" />
+  </files>
   <book id="mat" name="بُشْرَى مَتَّى">
     <chapter id="1" name="الْبَابُ الأَوَّلُ">
       <verse id="1">هَذَا سِجِلُّ نَسَبِ عِيسَى الْمَسِيحِ ابْنِ دَاوُدَ ابْنِ إِبْرَاهِيمَ.</verse>
