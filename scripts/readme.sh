@@ -19,11 +19,11 @@ dir = File.expand_path('../', File.dirname(__FILE__))
 file = File.read(File.join(dir, 'metadata.json'))
 data = JSON.parse(file)['data']
 
-rows = [['ID', 'Name', 'Original', 'Direction', 'Language', 'File'], :separator]
+rows = [['Name', 'ID', 'Original', 'Direction', 'Language', 'File'], :separator]
 data.each do |t|
-  id = "[#{t['id']}](https://alkotob.org/#{t['id']})"
+  name = "[#{t['name']}](https://alkotob.org/#{t['id']})"
   file_link = "[#{t['file']}](https://github.com/alkotob/bible-translations/raw/master/data/#{t['file']})"
-  rows << [id, t['name'], t['original'], t['direction'], t['language'], file_link]
+  rows << [name, t['id'], t['original'], t['direction'], t['language'], file_link]
 end
 
 # Format markdown table

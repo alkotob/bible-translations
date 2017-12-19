@@ -6,11 +6,11 @@ These bible translations were provided by the authors with permission. Please se
 
 Here is a list of the available translations and their accessibility online as well as the formatted download link. You will find a `metadata.json` file for processing the files programmatically.
 
-| ID                                   | Name                        | Original | Direction | Language | File                                                                                   |
-|--------------------------------------|-----------------------------|----------|-----------|----------|----------------------------------------------------------------------------------------|
-| [gnt](https://alkotob.org/gnt)       | Βίβλος (GNT)                | true     | ltr       | gr       | [gnt.xml](https://github.com/alkotob/bible-translations/raw/master/data/gnt.xml)       |
-| [injil](https://alkotob.org/injil)   | إنجيل                       | false    | rtl       | ar       | [injil.xml](https://github.com/alkotob/bible-translations/raw/master/data/injil.xml)   |
-| [sabeel](https://alkotob.org/sabeel) | السَّبِيْلُ                      | false    | rtl       | ar       | [sabeel.xml](https://github.com/alkotob/bible-translations/raw/master/data/sabeel.xml) |
-| [sbleng](https://alkotob.org/sbleng) | The Path                    | false    | ltr       | en       | [sbleng.xml](https://github.com/alkotob/bible-translations/raw/master/data/sbleng.xml) |
-| [tma](https://alkotob.org/tma)       | المعنى الصحيح لإنجيل المسيح | false    | rtl       | ar       | [tma.xml](https://github.com/alkotob/bible-translations/raw/master/data/tma.xml)       |
-| [zabur](https://alkotob.org/zabur)   | الزَّبُورُ                      | false    | rtl       | ar       | [zabur.xml](https://github.com/alkotob/bible-translations/raw/master/data/zabur.xml)   |
+| Name                                                   | ID     | Original | Direction | Language | File                                                                                   |
+|--------------------------------------------------------|--------|----------|-----------|----------|----------------------------------------------------------------------------------------|
+| [Βίβλος (GNT)](https://alkotob.org/gnt)                | gnt    | true     | ltr       | gr       | [gnt.xml](https://github.com/alkotob/bible-translations/raw/master/data/gnt.xml)       |
+| [إنجيل](https://alkotob.org/injil)                     | injil  | false    | rtl       | ar       | [injil.xml](https://github.com/alkotob/bible-translations/raw/master/data/injil.xml)   |
+| [السَّبِيْلُ](https://alkotob.org/sabeel)                   | sabeel | false    | rtl       | ar       | [sabeel.xml](https://github.com/alkotob/bible-translations/raw/master/data/sabeel.xml) |
+| [The Path](https://alkotob.org/sbleng)                 | sbleng | false    | ltr       | en       | [sbleng.xml](https://github.com/alkotob/bible-translations/raw/master/data/sbleng.xml) |
+| [المعنى الصحيح لإنجيل المسيح](https://alkotob.org/tma) | tma    | false    | rtl       | ar       | [tma.xml](https://github.com/alkotob/bible-translations/raw/master/data/tma.xml)       |
+| [الزَّبُورُ](https://alkotob.org/zabur)                    | zabur  | false    | rtl       | ar       | [zabur.xml](https://github.com/alkotob/bible-translations/raw/master/data/zabur.xml)   |
