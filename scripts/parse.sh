@@ -25,7 +25,7 @@ Dir.entries(dir).each do |filename|
   doc = Nokogiri::XML(File.open(file))
 
   # Parse metadata
-  meta = doc.css('bible').first
+  meta = doc.css('collection').first
   code = t_id = meta['id']
   iso = meta['language']
   direction = meta['direction']
