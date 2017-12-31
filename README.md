@@ -8,7 +8,7 @@ Here is a list of the available translations and their accessibility online as w
 
 | Name                                                   | ID     | Original | Direction | Language | File                                                                                   |
 |--------------------------------------------------------|--------|----------|-----------|----------|----------------------------------------------------------------------------------------|
-| [Βίβλος (GNT)](https://alkotob.org/gnt)                | gnt    | true     | ltr       | gr       | [gnt.xml](https://github.com/alkotob/bible-translations/raw/master/data/gnt.xml)       |
+| [Βίβλος](https://alkotob.org/gnt)                      | gnt    | true     | ltr       | gr       | [gnt.xml](https://github.com/alkotob/bible-translations/raw/master/data/gnt.xml)       |
 | [إنجيل](https://alkotob.org/injil)                     | injil  | false    | rtl       | ar       | [injil.xml](https://github.com/alkotob/bible-translations/raw/master/data/injil.xml)   |
 | [السَّبِيْلُ](https://alkotob.org/sabeel)                   | sabeel | false    | rtl       | ar       | [sabeel.xml](https://github.com/alkotob/bible-translations/raw/master/data/sabeel.xml) |
 | [The Path](https://alkotob.org/sbleng)                 | sbleng | false    | ltr       | en       | [sbleng.xml](https://github.com/alkotob/bible-translations/raw/master/data/sbleng.xml) |

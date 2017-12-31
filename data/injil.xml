@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<bible id="injil" name="إنجيل" direction="rtl" language="ar">
+<collection id="injil" name="إنجيل" bismillah="بسم الله الرحمن الرحيم" direction="rtl" language="ar">
   <books>
     <book id="mat" name="بُشْرَى مَتَّى">
       <chapters>
@@ -24462,4 +24462,4 @@
       </chapters>
     </book>
   </books>
-</bible>
+</collection>

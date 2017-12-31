@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bible id="gnt" name="Βίβλος (GNT)" direction="ltr" language="gr">
+<collection id="gnt" name="Βίβλος" direction="ltr" language="gr">
   <books>
     <book id="mat" name="ΚΑΤΑ ΜΑΘΘΑΙΟΝ">
       <chapters>
@@ -24411,4 +24411,4 @@
       </chapters>
     </book>
   </books>
-</bible>
+</collection>
