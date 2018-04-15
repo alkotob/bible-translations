@@ -17,6 +17,14 @@
       "file": "injil.xml"
     },
     {
+      "id": "injilen",
+      "original": false,
+      "name": "The Honored Injil",
+      "direction": "ltr",
+      "language": "en",
+      "file": "injil-en.xml"
+    },
+    {
       "id": "sabeel",
       "original": false,
       "name": "السَّبِيْلُ",
